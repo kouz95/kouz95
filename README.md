@@ -14,9 +14,8 @@ _식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP_
 
 ## 👀 Interest
 
-- #### DDD, MSA, CQRS
-- #### Kotlin, Go, ES6, TypeScript
-- #### Docker, Jenkins
+- DDD, MSA, CQRS
+- Kotlin, Go, ES6, TypeScript, Docker
 
 ---
 
