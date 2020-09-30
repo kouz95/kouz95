@@ -21,5 +21,3 @@ _식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP_
 ---
 
 [![Velog](http://img.shields.io/badge/Velog-brightgreen?style=flat&link=https://velog.io/@kouz)](https://velog.io/@kouz)
-
-![Visitors](https://komarev.com/ghpvc/?username=kouz95&label=visitors&color=lightgrey)
