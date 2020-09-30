@@ -1,21 +1,3 @@
-## 🌟 Skills
-### Server
-- Java 8
-- JPA, Hibernate, Querydsl
-- Spring Boot, Spring MVC, Spring Data, Spring Websocket
-- Junit5, Mockito, RestAssured
-- Gradle
-- Flyway
-
-### Infra
-- Docker
-- Jenkins
-- AWS EC2, S3
-
-### Client
-- React Native, Recoil
-- Expo, Yarn
-
 ## 🗂 Projects
 ### 직고래
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98) 
@@ -33,7 +15,7 @@ _식전 수프처럼 페어와의 협업 맛을 돋우는 애피타이저, SUPP_
 ## 👀 Interest
 
 #### DDD, MSA, CQRS
-#### Kotlin, Go, ES6, TypeScript
+#### Kotlin, Go, Docker, ES6, TypeScript
 
 ---
 
