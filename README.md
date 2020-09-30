@@ -1,9 +1,22 @@
-## 🌟 Backend Developer 
-### Java 8, Junit5, JPA, Spring boot, Spring Data
-### React Native, Websocket, Querydsl, Flyway, Docker, Jenkins
+## 🌟 Skills
+### Server
+- Java 8
+- JPA, Hibernate, Querydsl
+- Spring Boot, Spring MVC, Spring Data, Spring Websocket
+- Junit5, Mockito, RestAssured
+- Gradle
+- Flyway
 
+### Infra
+- Docker
+- Jenkins
+- AWS EC2, S3
 
-## 🗂 Project
+### Client
+- React Native, Recoil
+- Expo, Yarn
+
+## 🗂 Projects
 ### 직고래
 [![About](http://img.shields.io/badge/-_💡_About-blue?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98) 
 [![Github](http://img.shields.io/badge/-Github-black?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company)](https://github.com/woowacourse-teams/2020-seller-lee-company) 
