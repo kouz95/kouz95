@@ -1,8 +1,7 @@
 ## 🌟 Backend Developer 
 ### Java 8, Junit5, JPA, Spring boot, Spring Data
-
-## 🔨 ETC..
 ### React Native, Websocket, Querydsl, Flyway, Docker, Jenkins
+
 
 ## 🗂 Project
 ### 직고래
