@@ -1,7 +1,7 @@
 ## 👀 Interest
 
-- DDD, MSA, CQRS
-- Kotlin, Go, ES6, TypeScript, Docker
+- DDD, Hexagonal Architecture, CQRS
+- Kotlin, Docker
 
 ## 🗂 Project
 ### 직고래
